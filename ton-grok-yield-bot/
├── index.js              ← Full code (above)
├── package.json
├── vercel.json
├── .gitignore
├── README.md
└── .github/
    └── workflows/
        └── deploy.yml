@@ -1,0 +1,9 @@
+ton-grok-yield-bot/
+├── index.js              ← Full code (above)
+├── package.json
+├── vercel.json
+├── .gitignore
+├── README.md
+└── .github/
+    └── workflows/
+        └── deploy.yml
